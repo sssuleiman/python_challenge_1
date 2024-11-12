@@ -6,6 +6,7 @@ max_attempts = 3
 
 print("Welcome to the Number Guessing Game!")
 print("Guess the number between 1 and 10.")
+print("You have three Attempt.")
 
 # Game loop
 while attempts < max_attempts:
